@@ -28,7 +28,7 @@
 
 ## 📋 Overview
 
-This project demonstrates how to build a simple AI agent using LangGraph for state management and a local Hugging Face model for text summarization. The agent is designed to be educational, showing core LangGraph concepts while maintaining simplicity.
+This project demonstrates how to build an AI agent using LangGraph for state management and a local Hugging Face model for text summarization. The agent is designed to be educational, showing core LangGraph concepts while maintaining simplicity.
 
 ## 🚀 Features
 
